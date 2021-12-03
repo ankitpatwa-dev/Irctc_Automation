@@ -1,0 +1,11 @@
+{
+     "paths" :
+     {
+          "Url" : "https://www.irctc.co.in/nget/train-search",
+          "button1" : "/html/body/app-root/app-home/div[1]/app-header/p-dialog[2]/div/div/div[2]/div/form/div[2]/button",
+          "from_input" : "//*[@id=\"origin\"]/span/input",
+          "To_input" : "//*[@id=\"destination\"]/span/input",
+          "date_input" : "//*[@id=\"jDate\"]/span/input"
+
+     }
+}
